@@ -1,0 +1,52 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+
+# Setup
+title:               Arpon Basu
+tagline:             
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
+paginate:            1
+markdown:            kramdown
+
+# About/contact
+author:
+  name:              Arpon Basu
+
+# Custom vars
+version:             1.0.0
+
+# Fill in your Google Analytics gtag.js ID to track your website using gtag
+# gtag: "UA-164224546-1"
+
+# Fill in your Google Analytics ID to track your website using GA
+# google_analytics: "UA-164224546-1"
+
+# Google Tag Manager ID
+#gtm: ""
+
+# Select your active Social Network Links.
+# Uncomment the links you want to show in the footer and add your information to each link.
+# You can reorder the items to define the link order.
+# If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
+social-network-links:
+  rss: true
+  email: "arpon.basu@gmail.com"
+  github: arponbasu
+#  twitter: yourname
+#  reddit: yourname
+#  linkedin: yourname
+#  spotify: 
+#  telephone: 
+#  steam: 
+#  twitch: yourname
+#  yelp: yourname
+
+collections:
+  notes:
+    output: true
+  blog:
+    output: true
+  about:
+    output: true
