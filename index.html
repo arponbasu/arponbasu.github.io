@@ -3,26 +3,53 @@ layout: default
 title: Home
 ---
 <style>
-td.home{
-    background-color: white;
-    border: none; 
-}
+    td.home {
+        background-color: white;
+        border: none;
+    }
 
+    div.row {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    div.col{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
 </style>
 
-<table style="text-align: left;">
-    <tbody>
-        <tr>
-        <td class="home"><img src="me.jpeg" alt="Picture" style="width:300px; max-height: 100%;"></td>
-        <td class="home">I'm Arpon Basu, a final-year undergrad at IIT Bombay, pursuing an honors in Computer Science and a minor in Mathematics. You can navigate the webpage by clicking on the sidebar (top left corner).</a><br>
-                Here is a link to my <a href="./cv.pdf" target="_blank">CV</a>.<br>
-                I've also done a lot of expository writing, which you can find out more about in the <a href="notes">Expository Writing</a> section.<br></td>
-        </tr>
-    </tbody>
-</table>
-
+<div class="desktop">
+    <div class="row">
+        <img src="me.jpeg" alt="Picture" style="width:50%; max-height: 100%;">
+        <div>
+            I'm Arpon Basu, a final-year undergrad at IIT Bombay, pursuing an honors in Computer Science and a minor in
+            Mathematics. You can navigate the webpage by clicking on the sidebar (top left corner).</a><br>
+            Here is a link to my <a href="./cv.pdf" target="_blank">CV</a>.<br>
+            I've also done a lot of expository writing, which you can find out more about in the <a href="notes">Expository
+                Writing</a> section.<br>
+        </div>
+    </div>
+</div>
+<div class="mobile">
+    <div class="col">
+        <img src="me.jpeg" alt="Picture" style="width:90%; max-height: 90%;">
+        <div>
+            I'm Arpon Basu, a final-year undergrad at IIT Bombay, pursuing an honors in Computer Science and a minor in
+            Mathematics. You can navigate the webpage by clicking on the sidebar (top left corner).</a><br>
+            Here is a link to my <a href="./cv.pdf" target="_blank">CV</a>.<br>
+            I've also done a lot of expository writing, which you can find out more about in the <a href="notes">Expository
+                Writing</a> section.<br>
+        </div>
+    </div>
+</div>
 You can contact me at: firstname.lastname[at]gmail[dot]com.
 <br>
+<br>
+<br>
 <p>
-    <a href="https://info.flagcounter.com/MkU0"><img src="https://s11.flagcounter.com/count2/MkU0/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+    <a href="https://info.flagcounter.com/MkU0"><img
+            src="https://s11.flagcounter.com/count2/MkU0/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/percent_0/"
+            alt="Flag Counter" border="0"></a>
 </p>
