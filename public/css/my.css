@@ -10,3 +10,11 @@
         display: none;
     }
 }
+
+.descbox{
+    border-radius:15px;-webkit-border-radius:15px;-moz-border-radius:15px;width:100%;float:center;display:none;font-size:medium;background-color:#f0ffff;margin-left:0;padding:10px;text-align:left;
+}
+
+.descfont{
+    font-family: sans-serif, 'Open Sans';color: #999;font-size: 15px;
+}
