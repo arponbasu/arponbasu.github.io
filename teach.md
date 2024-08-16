@@ -8,7 +8,7 @@ title: Teaching and Service
 
 
 ## TAships
-I have TA'd for 6 courses so far at IIT Bombay, and I've enjoyed this experience a lot. Among other things, my experience involved conducting tutorials (recitations), grading assignments and examination papers, and clearing student queries personally. Some courses I have TA'd for are:
+I TA'd 6 courses at IIT Bombay, and I enjoyed this experience a lot. Among other things, I was involved in conducting tutorials (recitations), grading assignments and examination papers, and clearing student queries personally. The courses I TA'd for are:
 1. MA109 (Calculus), Fall 2021
 2. MA106 (Linear Algebra), Spring 2022
 3. CS228 (Logic for Computer Science), Spring 2023: I prepared [LaTeXed solutions](https://github.com/arponbasu/CS228_Tut_Solutions){:target="_blank"} to the tutorials for this course, which were referred to by hundreds of juniors.
