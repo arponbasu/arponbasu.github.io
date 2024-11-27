@@ -11,7 +11,7 @@ title: Teaching and Service
 I TA'd 6 courses at IIT Bombay, and I enjoyed this experience a lot. Among other things, I was involved in conducting tutorials (recitations), grading assignments and examination papers, and clearing student queries personally. The courses I TA'd for are:
 1. MA109 (Calculus), Fall 2021
 2. MA106 (Linear Algebra), Spring 2022
-3. CS228 (Logic for Computer Science), Spring 2023: I prepared [LaTeXed solutions](https://github.com/arponbasu/CS228_Tut_Solutions){:target="_blank"} to the tutorials for this course, which were referred to by hundreds of juniors.
+3. CS228 (Logic for Computer Science), Spring 2023: I prepared [LaTeXed solutions](https://github.com/arponbasu/CS228_Tut_Solutions){:target="_blank"} to the tutorials for this course, which were referred to by hundreds of sophomores.
 4. [CS215 (Data Analysis and Interpretation), Fall 2023](https://www.cse.iitb.ac.in/~ajitvr/CS215_Fall2023/){:target="_blank"} 
 5. [CS208 (Automata and Logic), Spring 2024](https://www.cse.iitb.ac.in/~supratik/courses/cs208/index.html){:target="_blank"}
 6. [CS786 (Randomized Algorithms), Spring 2024](https://sites.google.com/view/kumarakash/teaching/cs-786-randomized-algorithms?authuser=0){:target="_blank"}
