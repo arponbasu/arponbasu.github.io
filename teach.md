@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Talks, Teaching, and Service
+title: Talks and Teaching
 ---
 
 ## Talks and Outreach
