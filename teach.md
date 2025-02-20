@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Teaching and Service
+title: Talks, Teaching, and Service
 ---
 
 ## Talks and Outreach
-1. Instructed students (grades 8-12) on polynomials and functional equations for Math Olympiads, at a Mathematics Olympiad Orientation Program (December '23) conducted by AEES. Find the recordings of my talks [here](https://www.youtube.com/watch?v=wlj1LZDXABU){:target="_blank"}, and [here](https://www.youtube.com/watch?v=Y1wt6IJM9io){:target="_blank"}.
+1. University of California, San Diego (UCSD), **San Diego, USA**: Invited to present a talk on "Improved Lower Bounds for All Odd Query LDCs" at the Theory Lunch, January 2025.
+2. Instructed students (grades 8-12) on polynomials and functional equations for Math Olympiads, at a Mathematics Olympiad Orientation Program (December '23) conducted by AEES. Find the recordings of my talks [here](https://www.youtube.com/watch?v=wlj1LZDXABU){:target="_blank"}, and [here](https://www.youtube.com/watch?v=Y1wt6IJM9io){:target="_blank"}.
 
 
 ## TAships
