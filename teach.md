@@ -4,9 +4,10 @@ title: Talks and Teaching
 ---
 
 ## Talks and Outreach
-1. Workshop on Local Algorithms, **Chicago, USA**: Presented a talk on my work on “Solving Random Planted CSPs below the n<sup>k/2</sup> Threshold” at [WoLA, 2025](https://people.csail.mit.edu/joanne/WOLA25){:target="_blank"}.
-2. University of California, San Diego (UCSD), **San Diego, USA**: Invited to present a talk on "Improved Lower Bounds for All Odd Query LDCs" at the Theory Lunch, January 2025.
-3. Instructed students (grades 8-12) on polynomials and functional equations for Math Olympiads, at a Mathematics Olympiad Orientation Program (December '23) conducted by AEES. Find the recordings of my talks [here](https://www.youtube.com/watch?v=wlj1LZDXABU){:target="_blank"}, and [here](https://www.youtube.com/watch?v=Y1wt6IJM9io){:target="_blank"}.
+1. [Eastern Great Lakes Theory of Computation Workshop](https://www.cs.rochester.edu/u/shossei2/eagl2025website/index.html){:target="_blank"}, **Rochester, USA**: Presented a [poster](https://arponbasu.github.io/Slides%20and%20Posters/Noisy-k-XOR_Poster.pdf){:target="_blank"} on my work on “Solving noisy k-XOR below the n<sup>k/2</sup> Threshold“. 
+2. [Workshop on Local Algorithms, 2025](https://people.csail.mit.edu/joanne/WOLA25){:target="_blank"}, **Chicago, USA**: Presented a talk on my work on “Solving Random Planted CSPs below the n<sup>k/2</sup> Threshold“.
+3. University of California, San Diego (UCSD), **San Diego, USA**: Invited to present a talk on "Improved Lower Bounds for All Odd Query LDCs" at the Theory Lunch, January 2025.
+4. Instructed students (grades 8-12) on polynomials and functional equations for Math Olympiads, at a Mathematics Olympiad Orientation Program (December '23) conducted by AEES. Find the recordings of my talks [here](https://www.youtube.com/watch?v=wlj1LZDXABU){:target="_blank"}, and [here](https://www.youtube.com/watch?v=Y1wt6IJM9io){:target="_blank"}.
 
 
 ## TAships
