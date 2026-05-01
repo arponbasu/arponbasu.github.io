@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Talks, Workshops and Teaching, Outreach
+title: Talks, Workshops, Teaching and Outreach
 ---
 
 ## Talks and Workshops
