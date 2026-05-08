@@ -4,7 +4,7 @@ title: Talks, Workshops, Teaching and Outreach
 ---
 
 ## Talks and Workshops
-1. NYC Student Theory & ML Day, **New York, USA**: Presented my work on [Sparsifying Sums of Positive Semidefinite Matrices](https://arxiv.org/abs/2508.08169){:target="_blank"} at [NYC Student Theory & ML Day](https://nairenc.github.io/nyu/nycStudentTheoryDaySpring2026.html){:target="_blank"}.
+1. NYC Student Theory & ML Day, **New York, USA**: Presented my work on [Sparsifying Sums of Positive Semidefinite Matrices](https://arxiv.org/abs/2508.08169){:target="_blank"} at [NYC Student Theory & ML Day, 2026](https://nairenc.github.io/nyu/nycStudentTheoryDaySpring2026.html){:target="_blank"}.
 2. ACM-SIAM Symposium On Discrete Algorithms (SODA), **Vancouver, Canada**: Presented my work on [Sparsifying Sums of Positive Semidefinite Matrices](https://arxiv.org/abs/2508.08169){:target="_blank"} at [SODA, 2026](https://www.siam.org/conferences-events/siam-conferences/soda26/){:target="_blank"}.
 3. IEEE Symposium On Foundations Of Computer Science (FOCS), **Sydney, Australia**: Presented my work on [Improved Lower Bounds for all Odd-Query Locally Decodable Codes](https://arxiv.org/abs/2411.14361){:target="_blank"} at [FOCS, 2025](https://focs.computer.org/2025/){:target="_blank"}.
 4. [Eastern Great Lakes Theory of Computation Workshop](https://www.cs.rochester.edu/u/shossei2/eagl2025website/index.html){:target="_blank"}, **Rochester, USA**: Presented a [poster](https://arponbasu.github.io/Slides%20and%20Posters/Noisy-k-XOR_Poster.pdf){:target="_blank"} on my work on “Solving noisy k-XOR below the n<sup>k/2</sup> Threshold“. 
