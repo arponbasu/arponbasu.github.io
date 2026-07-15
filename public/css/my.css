@@ -1,20 +1,128 @@
-.desktop{
+/* Existing desktop/mobile visibility rules */
+
+.desktop {
     display: none;
 }
 
-@media(min-width:800px){
-    .desktop{
+@media (min-width: 800px) {
+    .desktop {
         display: block;
     }
-    .mobile{
+
+    .mobile {
         display: none;
     }
 }
 
-.descbox{
-    border-radius:15px;-webkit-border-radius:15px;-moz-border-radius:15px;width:100%;float:center;display:none;font-size:medium;background-color:#f0ffff;margin-left:0;padding:10px;text-align:left;
+
+/* Existing description-box styles */
+
+.descbox {
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    width: 100%;
+    float: center;
+    display: none;
+    font-size: medium;
+    background-color: #f0ffff;
+    margin-left: 0;
+    padding: 10px;
+    text-align: left;
 }
 
-.descfont{
-    font-family: sans-serif, 'Open Sans';color: #999;font-size: 15px;
+.descfont {
+    font-family: sans-serif, "Open Sans";
+    color: #999;
+    font-size: 15px;
+}
+
+
+/* Site title banner */
+
+.site-banner {
+    padding: 1.75rem 1rem;
+    background-color: #e67e22;
+    text-align: center;
+}
+
+.site-banner h1 {
+    margin: 0;
+    font-size: 2.7rem;
+    color: white;
+}
+
+.site-banner a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.site-banner a:hover,
+.site-banner a:focus {
+    color: inherit;
+    text-decoration: none;
+}
+
+
+/* Main navigation */
+
+.top-nav {
+    background-color: #d35400;
+}
+
+.top-nav-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.top-nav a {
+    display: flex;
+    align-items: center;
+    padding: 0.85rem 0.6rem;
+    color: white;
+    line-height: 1.2;
+    text-align: center;
+}
+
+.top-nav a:hover,
+.top-nav a:focus {
+    color: white;
+    background-color: #2c3e50;
+    text-decoration: none;
+}
+
+
+/* Space between navigation and page content */
+
+.content {
+    padding-top: 2.5rem;
+}
+
+
+/* Phones and tablets */
+
+@media (max-width: 48em) {
+    .site-banner {
+        padding: 1.25rem 1rem;
+    }
+
+    .site-banner h1 {
+        font-size: 2rem;
+    }
+
+    .top-nav-inner {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .top-nav a {
+        min-height: 2.75rem;
+        padding: 0.6rem 0.55rem;
+        font-size: 0.9rem;
+    }
+
+    .content {
+        padding-top: 1.5rem;
+    }
 }
