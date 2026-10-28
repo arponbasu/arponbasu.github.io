@@ -5,8 +5,6 @@ title: Talks, Workshops, Teaching and Outreach
 
 ## Talks and Workshops
 
-## Talks and Workshops
-
 <b>Quantum Cut Sparsifiers</b> <a href="https://arxiv.org/abs/2606.09728" target="_blank"><span style="font-family: sans-serif, 'Open Sans';">(arXiv)</span></a> <a href="./notes/Quantum%20Cut%20Sparsifiers.pdf" target="_blank"><span style="font-family: sans-serif, 'Open Sans';">(Slides)</span></a>
 
 1. [Yale Student Theory Lunch](https://yaletheorystudents.github.io){:target="_blank"} — Invited talk, October 2026.
@@ -20,9 +18,9 @@ title: Talks, Workshops, Teaching and Outreach
 
 <b>Solving Random Planted CSPs below the n<sup>k/2</sup> Threshold</b> <a href="https://arxiv.org/abs/2507.10833" target="_blank"><span style="font-family: sans-serif, 'Open Sans';">(arXiv)</span></a> <a href="./Slides%20and%20Posters/Noisy-k-XOR_Poster.pdf" target="_blank"><span style="font-family: sans-serif, 'Open Sans';">(Poster)</span></a> <a href="https://www.youtube.com/watch?v=cL0XEfrcPY4" target="_blank"><span style="font-family: sans-serif, 'Open Sans';">(Talk)</span></a>
 
-1. [International Colloquium on Automata, Languages, and Programming (ICALP)](https://icalppodcspaa2026.cs.rhul.ac.uk/icalp/){:target="_blank"}, **London, UK** — Conference talk, 2026.
-2. [Eastern Great Lakes Theory of Computation Workshop](https://www.cs.rochester.edu/u/shossei2/eagl2025website/index.html){:target="_blank"}, **Rochester, USA** — Poster presentation on “Solving noisy k-XOR below the n<sup>k/2</sup> Threshold,” 2025.
-3. [Workshop on Local Algorithms](https://people.csail.mit.edu/joanne/WOLA25){:target="_blank"}, **Chicago, USA** — Workshop talk, 2025.
+1. [International Colloquium on Automata, Languages, and Programming (ICALP)](https://icalppodcspaa2026.cs.rhul.ac.uk/icalp/){:target="_blank"}, **London, UK** — Conference talk, July 2026.
+2. [Eastern Great Lakes Theory of Computation Workshop](https://www.cs.rochester.edu/u/shossei2/eagl2025website/index.html){:target="_blank"}, **Rochester, USA** — Poster presentation on “Solving noisy k-XOR below the n<sup>k/2</sup> Threshold,” October 2025.
+3. [Workshop on Local Algorithms](https://people.csail.mit.edu/joanne/WOLA25){:target="_blank"}, **Chicago, USA** — Workshop talk, August 2025.
 
 <b>Sparsifying Sums of Positive Semidefinite Matrices</b> <a href="https://arxiv.org/abs/2508.08169" target="_blank"><span style="font-family: sans-serif, 'Open Sans';">(arXiv)</span></a>
 
@@ -36,10 +34,10 @@ title: Talks, Workshops, Teaching and Outreach
 
 ### Workshops, Schools, and Research Visits
 
-1. [QWEST](https://www.linkedin.com/posts/princeton-students-in-quantum_and-thats-a-wrap-a-very-successful-qwest-activity-7307049257390202880-5saQ/){:target="_blank"}, **California, USA** — Invited participant, 2025. One of 12 Princeton students selected for a week-long visit to quantum computing research facilities in Southern California, including the AWS Center for Quantum Computing, Caltech, UCLA, Q-CTRL, Google Quantum AI, UCSB, Microsoft Station Q, Qolab, and the USC Information Sciences Institute.
-2. [Swiss Winter School on Theoretical Computer Science](https://theory.epfl.ch/WinterSchool2025/){:target="_blank"}, **Zinal, Switzerland** — Invited participant, 2025. One of 60 graduate students selected for a fully funded winter school.
-3. [Tessellate Camp, Chennai Mathematical Institute (CMI)](https://tessellate.cmi.ac.in/stems/){:target="_blank"}, **Chennai, India** — Invited participant, 2024. A fully funded camp for about 30 of the highest scorers in Mathematics, Computer Science, and Physics in the STEMS (Scholastic Test of Excellence in Mathematical Sciences) exam.
-4. [Cornell-Maryland-Max Planck Research School (CMMRS)](https://cmmrs2023.mpi-sws.org){:target="_blank"}, **Saarbrücken, Germany** — Invited participant, 2023. A pre-doctoral research school selecting about 60 undergraduate and master's students for an orientation on PhD programs.
+1. [QWEST](https://www.linkedin.com/posts/princeton-students-in-quantum_and-thats-a-wrap-a-very-successful-qwest-activity-7307049257390202880-5saQ/){:target="_blank"}, **California, USA** — Invited participant, March 2025. One of 12 Princeton students selected for a week-long visit to quantum computing research facilities in Southern California, including the AWS Center for Quantum Computing, Caltech, UCLA, Q-CTRL, Google Quantum AI, UCSB, Microsoft Station Q, Qolab, and the USC Information Sciences Institute.
+2. [Swiss Winter School on Theoretical Computer Science](https://theory.epfl.ch/WinterSchool2025/){:target="_blank"}, **Zinal, Switzerland** — Invited participant, January 2025. One of 60 graduate students selected for a fully funded winter school.
+3. [Tessellate Camp, Chennai Mathematical Institute (CMI)](https://tessellate.cmi.ac.in/stems/){:target="_blank"}, **Chennai, India** — Invited participant, January 2024. A fully funded camp for about 30 of the highest scorers in Mathematics, Computer Science, and Physics in the STEMS (Scholastic Test of Excellence in Mathematical Sciences) exam.
+4. [Cornell-Maryland-Max Planck Research School (CMMRS)](https://cmmrs2023.mpi-sws.org){:target="_blank"}, **Saarbrücken, Germany** — Invited participant, August 2023. A pre-doctoral research school selecting about 60 undergraduate and master's students for an orientation on PhD programs.
 
 ## Teaching and Outreach
 I TA'd 6 courses at IIT Bombay, and I enjoyed this experience a lot. Among other things, I was involved in conducting tutorials (recitations), grading assignments and examination papers, and clearing student queries personally. The courses I TA'd for are:
