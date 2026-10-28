@@ -9,14 +9,14 @@ title: Talks, Workshops, Teaching and Outreach
 
 <b>Quantum Cut Sparsifiers</b> <a href="https://arxiv.org/abs/2606.09728" target="_blank"><span style="font-family: sans-serif, 'Open Sans';">(arXiv)</span></a> <a href="./notes/Quantum%20Cut%20Sparsifiers.pdf" target="_blank"><span style="font-family: sans-serif, 'Open Sans';">(Slides)</span></a>
 
-1. [Yale Student Theory Lunch](https://yaletheorystudents.github.io){:target="_blank"}, **New Haven, USA** — Invited talk, October 2026.
-2. [NYU Theory Seminar](https://csefoundations.engineering.nyu.edu/seminar.html){:target="_blank"}, **New York, USA** — Invited talk, September 2026.
-3. [Rutgers/DIMACS Theory of Computing Seminar](https://theory.cs.rutgers.edu/theory_seminar){:target="_blank"}, **New Brunswick, USA** — Invited talk, September 2026.
-4. Northwestern Theory Seminar, Northwestern University, **Evanston, USA** — Invited talk, August 2026. Also covered [Convex Body Sparsification](https://eccc.weizmann.ac.il/report/2026/132/){:target="_blank"} (see also [Abelian Cayley Sparsifiers](https://arxiv.org/abs/2607.08261){:target="_blank"}).
+1. [Yale Student Theory Lunch](https://yaletheorystudents.github.io){:target="_blank"} — Invited talk, October 2026.
+2. [NYU Theory Seminar](https://csefoundations.engineering.nyu.edu/seminar.html){:target="_blank"} — Invited talk, September 2026.
+3. [Rutgers/DIMACS Theory of Computing Seminar](https://theory.cs.rutgers.edu/theory_seminar){:target="_blank"} — Invited talk, September 2026.
+4. Northwestern Theory Seminar, Northwestern University — Invited talk, August 2026. Also covered [Convex Body Sparsification](https://eccc.weizmann.ac.il/report/2026/132/){:target="_blank"} (see also [Abelian Cayley Sparsifiers](https://arxiv.org/abs/2607.08261){:target="_blank"}).
 
 <b>Sharp Bounds on Ground State Energy of the SYK Model</b> <a href="https://arxiv.org/abs/2607.27185" target="_blank"><span style="font-family: sans-serif, 'Open Sans';">(arXiv)</span></a>
 
-1. Princeton University Quantum Dynamics Seminar, **Princeton, USA** — Invited talk in the Quantum Dynamics Reading Group, August 2026, hosted by Profs. [Sarang Gopalakrishnan](https://ece.princeton.edu/people/sarang-gopalakrishnan){:target="_blank"} and [David Huse](https://phy.princeton.edu/people/david-huse){:target="_blank"}.
+1. Princeton University Quantum Dynamics Seminar — Invited talk in the Quantum Dynamics Reading Group, August 2026, hosted by Profs. [Sarang Gopalakrishnan](https://ece.princeton.edu/people/sarang-gopalakrishnan){:target="_blank"} and [David Huse](https://phy.princeton.edu/people/david-huse){:target="_blank"}.
 
 <b>Solving Random Planted CSPs below the n<sup>k/2</sup> Threshold</b> <a href="https://arxiv.org/abs/2507.10833" target="_blank"><span style="font-family: sans-serif, 'Open Sans';">(arXiv)</span></a> <a href="./Slides%20and%20Posters/Noisy-k-XOR_Poster.pdf" target="_blank"><span style="font-family: sans-serif, 'Open Sans';">(Poster)</span></a> <a href="https://www.youtube.com/watch?v=cL0XEfrcPY4" target="_blank"><span style="font-family: sans-serif, 'Open Sans';">(Talk)</span></a>
 
@@ -26,13 +26,13 @@ title: Talks, Workshops, Teaching and Outreach
 
 <b>Sparsifying Sums of Positive Semidefinite Matrices</b> <a href="https://arxiv.org/abs/2508.08169" target="_blank"><span style="font-family: sans-serif, 'Open Sans';">(arXiv)</span></a>
 
-1. [NYC Student Theory & ML Day](https://nairenc.github.io/nyu/nycStudentTheoryDaySpring2026.html){:target="_blank"}, **New York, USA** — Talk, 2026.
-2. [ACM-SIAM Symposium on Discrete Algorithms (SODA)](https://www.siam.org/conferences-events/siam-conferences/soda26/){:target="_blank"}, **Vancouver, Canada** — Conference talk, 2026.
+1. [NYC Student Theory & ML Day](https://nairenc.github.io/nyu/nycStudentTheoryDaySpring2026.html){:target="_blank"}, May 2026.
+2. [ACM-SIAM Symposium on Discrete Algorithms (SODA)](https://www.siam.org/conferences-events/siam-conferences/soda26/){:target="_blank"}, **Vancouver, Canada** — Conference talk, January 2026.
 
 <b>Improved Lower Bounds for all Odd-Query Locally Decodable Codes</b> <a href="https://arxiv.org/abs/2411.14361" target="_blank"><span style="font-family: sans-serif, 'Open Sans';">(arXiv)</span></a> <a href="https://eccc.weizmann.ac.il/report/2024/189/" target="_blank"><span style="font-family: sans-serif, 'Open Sans';">(ECCC)</span></a> <a href="./Slides%20and%20Posters/Odd_LDC_Poster.pdf" target="_blank"><span style="font-family: sans-serif, 'Open Sans';">(Poster)</span></a>
 
-1. [IEEE Symposium on Foundations of Computer Science (FOCS)](https://focs.computer.org/2025/){:target="_blank"}, **Sydney, Australia** — Conference talk, 2025.
-2. University of California, San Diego (UCSD) Theory Lunch, **San Diego, USA** — Invited talk, January 2025.
+1. [IEEE Symposium on Foundations of Computer Science (FOCS)](https://focs.computer.org/2025/){:target="_blank"}, **Sydney, Australia** — Conference talk, December 2025.
+2. University of California, San Diego (UCSD) Theory Lunch — Invited talk, January 2025.
 
 ### Workshops, Schools, and Research Visits
 
