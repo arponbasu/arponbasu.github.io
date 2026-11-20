@@ -12,10 +12,11 @@ title: Talks, Workshops, Teaching and Outreach
 
 <b>Quantum Cut Sparsifiers</b> <a href="https://arxiv.org/abs/2606.09728" target="_blank"><span style="font-family: sans-serif, 'Open Sans';">(arXiv)</span></a> <a href="./notes/Quantum%20Cut%20Sparsifiers.pdf" target="_blank"><span style="font-family: sans-serif, 'Open Sans';">(Slides)</span></a>
 
-1. [Yale Student Theory Lunch](https://yaletheorystudents.github.io){:target="_blank"} — Invited talk, October 2026.
-2. [NYU Theory Seminar](https://csefoundations.engineering.nyu.edu/seminar.html){:target="_blank"} — Invited talk, September 2026.
-3. [Rutgers/DIMACS Theory of Computing Seminar](https://theory.cs.rutgers.edu/theory_seminar){:target="_blank"} — Invited talk, September 2026.
-4. Northwestern Theory Seminar, Northwestern University — Invited talk, August 2026. Also covered [Convex Body Sparsification](https://eccc.weizmann.ac.il/report/2026/132/){:target="_blank"} (see also [Abelian Cayley Sparsifiers](https://arxiv.org/abs/2607.08261){:target="_blank"}).
+1. Columbia Quantum Lunch — Invited talk, November 2026.
+2. [Yale Student Theory Lunch](https://yaletheorystudents.github.io){:target="_blank"} — Invited talk, October 2026.
+3. [NYU Theory Seminar](https://csefoundations.engineering.nyu.edu/seminar.html){:target="_blank"} — Invited talk, September 2026.
+4. [Rutgers/DIMACS Theory of Computing Seminar](https://theory.cs.rutgers.edu/theory_seminar){:target="_blank"} — Invited talk, September 2026.
+5. Northwestern Theory Seminar, Northwestern University — Invited talk, August 2026. Also covered [Convex Body Sparsification](https://eccc.weizmann.ac.il/report/2026/132/){:target="_blank"} (see also [Abelian Cayley Sparsifiers](https://arxiv.org/abs/2607.08261){:target="_blank"}).
 
 <b>Solving Random Planted CSPs below the n<sup>k/2</sup> Threshold</b> <a href="https://arxiv.org/abs/2507.10833" target="_blank"><span style="font-family: sans-serif, 'Open Sans';">(arXiv)</span></a> <a href="./Slides%20and%20Posters/Noisy-k-XOR_Poster.pdf" target="_blank"><span style="font-family: sans-serif, 'Open Sans';">(Poster)</span></a> <a href="https://www.youtube.com/watch?v=cL0XEfrcPY4" target="_blank"><span style="font-family: sans-serif, 'Open Sans';">(Talk)</span></a>
 
